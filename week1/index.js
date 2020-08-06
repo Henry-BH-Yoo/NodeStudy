@@ -19,7 +19,6 @@ const app = http.createServer(function(request , response){
             paramData = qs.parse(tempData);
         });
     }
-    console.log(paramData);
 
     setTimeout(function(){
         console.log(paramData);

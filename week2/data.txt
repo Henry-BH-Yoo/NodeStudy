@@ -1,0 +1,10 @@
+알버타 밴프|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img1.jpg|20120731
+등대&바다|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img2.jpg|20060707
+CN TOWER|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img3.jpg|20130620
+알버타 밴프|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img4.jpg|20171220
+토론토 호수|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img5.jpg|20160519
+캐나다 숲|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img6.jpg|20140503
+캐나다 겨울|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img7.jpg|20171203
+Marine 호수|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img8.jpg|20170827
+여우|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img9.jpg|20200301
+하이킹소녀|https://raw.githubusercontent.com/Henry-BH-Yoo/NodeStudy/master/week2/images/img10.jpg|20180907
