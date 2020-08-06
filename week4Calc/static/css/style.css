@@ -1,0 +1,14 @@
+* {margin:0;padding:0;}
+body {width:500px;color:white;}
+header {width:100%;background:#3f3f3f;height:40px;line-height:40px;}
+header h2 {text-align:center;}
+section {margin:1px 0px;}
+section .calc_area {width:40%;float:left;}
+section .calc_area .inner_area {width:98%;border-right:1px solid #afafaf;background:#6f6f6f;height:200px;line-height:100px;}
+section .calc_area .inner_area .input {text-align:right;border:none;background:#6f6f6f;color:white;font-size:20px;width:90%;}
+section .calc_area .inner_area .select {text-align:right;border:none;background:#6f6f6f;color:white;font-size:16px;width:90%;margin:0 5%;}
+
+section .btn_area {width:60%;float:right;background:#dfdfdf;}
+section .btn_area .line_per_btn_area {height:80px;line-height:80px;}
+section .btn_area .line_per_btn_area .empty {width:30%;display:inline-block;}
+section .btn_area .line_per_btn_area .button {width:30%;text-align:center;display:inline-block;height:75px;line-height:75px;border:1px solid #cfcfcf;background:#dfdfdf;}
